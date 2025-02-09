@@ -1,0 +1,6 @@
+file_write(input('what you want'),b)
+hihi
+a
+d
+e
+ad
